@@ -11,9 +11,7 @@ The option to test those cables is limited to the (NL2 and NL4 only) in this ver
 
 ## Circuit Design
 
-[
-](https://github.com/electronet-au/Audio-Cable-Tester/blob/main/Images/Schematic_Audio_Cable_Tester_2023-10-23.png?raw=true)
-
+![image](https://github.com/electronet-au/Audio-Cable-Tester/assets/17824672/63e919b4-6f27-4492-967b-2822c794b3fd)
 
 ## 3D Printed Case
 
